@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import bgProduct from '../assets/images/background/bg-product.svg'
 import contactus1 from '../assets/images/contactus1.png'
-import isoImage from '../assets/svg/iso.svg'
 class ContactUs extends Component {
     render() {
         return (
