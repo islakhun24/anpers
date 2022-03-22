@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import bgProduct from '../assets/images/background/bg-product.svg'
 import about1 from '../assets/images/about1.svg'
-import product2 from '../assets/images/product2.png'
 import isoImage from '../assets/svg/iso.svg'
 
 import homeServiceSvg from '../assets/images/background/bg-home-service.png'
